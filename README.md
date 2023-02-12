@@ -1,7 +1,5 @@
-![ak](https://user-images.githubusercontent.com/71403848/218312146-8f57a3b7-65ef-4dd1-81fb-1452750f9659.jpg)
-- 👋 Hi, I’m @MrAk47Anand007
-# Anand Sudhir Kale's Portfolio
-
+# 👋 Hi, I’m Anand S Kale
+------------------------------------------------------------------------------------------------------------------ 
 This repository showcases some of the projects and experiences, 
 I am a computer engineering student at Dr. D. Y. Patil Institute of Technology Pimpri, Pune. 
 With a strong interest in Java development and full-stack development.
