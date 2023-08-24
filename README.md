@@ -6,12 +6,12 @@ With a strong interest in Java development and full-stack development.
 
 ## Skills
 
-- Full Stack Java Development-------⭐⭐⭐⭐
-- Java Development------------------⭐⭐⭐⭐
-- MEAN/MERN Stack Development-⭐⭐⭐
-- Backend Development-------------⭐⭐⭐
-- DevOps-----------------------------⭐⭐
-- Python Development--------------⭐⭐
+- Full Stack Java Development
+- Java Development
+- MEAN/MERN Stack Development
+- Backend Development
+- DevOps
+- Python Development
 
 ## Education
 
