@@ -61,11 +61,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-###
 
 
 ## Education
