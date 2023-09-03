@@ -11,6 +11,12 @@
 
 ###
 
+<br clear="both">
+
+<h3 align="center">Skills</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
   <img width="15" />
@@ -40,6 +46,10 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="37" alt="kubernetes logo"  />
 </div>
+
+###
+
+<h3 align="center">Connect Me On</h3>
 
 ###
 
