@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Anand Kale</h2>
+<h2 align="center">Hi 👋! My name is 💻 Anand Sudhir Kale </h2>
 
 ###
 
@@ -80,20 +80,101 @@
 
 
 ###
+  
 
-## Education
+🌐 **Location**: Pune, Maharashtra, India  
+📫 **Email**: [anandankalegak@gmail.com](mailto:anandankalegak@gmail.com)  
+🔗 **LinkedIn**: [Profile](https://www.linkedin.com/in/akanandkale007/)  
+🔗 **GitHub**: [Profile](https://github.com/MrAk47Anand007)  
+🔗 **LeetCode**: [Profile](https://leetcode.com/Anandkale/)  
 
-- Currently pursuing a Bachelors in Computer Engineering at Dr. D. Y. Patil Institute of Technology Pimpri, Pune.
-- Completed Diploma in Information Technology in 2021 at Government Polytechnic Amravati.
+---
 
-## Projects
-- EduMate android app with 2 modules.
-  - Admin application.
-  - Students application.
-  - Aims to provide better communication between teachers and students in time of Covid-19 pandemic situation.
+## 🛠️ About Me  
+Motivated and innovative **full-stack developer** with expertise in **Java, Python, RPA tools**, and **process automation**. Passionate about creating scalable, efficient, and impactful software solutions using modern technologies like **REST APIs, Kubernetes, cloud platforms**, and **AI/ML**.  
 
-- Exam Portal Web app (Full Stack application)
-  - This web app aims to take test flawlessly through virtual mode.
+### 🚀 Objective  
+Leverage my skills in automation, DevOps, and development to contribute to exciting projects that solve real-world problems and drive innovation.  
+
+---
+
+## 🎓 Education  
+- **B.E. in Computer Engineering** — Dr. D. Y. Patil Institute of Technology, Pune  
+  *CGPA: 8.90/10.00*  
+- **Diploma in Information Technology** — Government Polytechnic Amravati  
+  *Percentage: 95.32%*  
+
+---
+
+## 🧩 Skills  
+### 💻 Technical  
+- **Programming**: Java, Python, JavaScript, HTML/CSS  
+- **Frameworks/Tools**: Spring Boot, Hibernate, React Native, Power Automate, UiPath, Automation Anywhere A360  
+- **DevOps/Cloud**: Kubernetes, Docker, GCP, Azure  
+- **Database**: MySQL, Firebase, SQLite  
+- **Others**: RPA, REST APIs, ChromaDB, LangChain, AI/ML  
+
+### 🤝 Soft Skills  
+- Problem-Solving  
+- Team Collaboration  
+- Effective Communication  
+
+### 📜 Certifications  
+- MuleSoft Developer Level 1  
+- Automation Anywhere A360 Advanced Certification  
+
+---
+
+## 💼 Experience  
+
+### **Enterprise Automation Developer**  
+*Xalta Technologies, Pune (Feb 2024 – Present)*  
+- Developed and deployed RPA bots using **Automation Anywhere A360** and **UiPath**.  
+- Enhanced automation pipelines with **Python** and **database integrations**.  
+- Worked on **cloud platforms** like Azure and GCP for deploying scalable solutions.  
+
+### **Python Developer**  
+*ImagineScript Solutions Pvt Ltd, Pune (Jun 2020 – Jul 2020)*  
+- Designed and implemented a GUI-based **data analysis tool** using **Tkinter** and **PyQt**, improving processing time by 50%.  
+
+---
+
+## 🚀 Featured Projects  
+
+### [**Email & Timesheet Automation**](https://github.com/MrAk47Anand007/Email_TimeSheet_Automation)  
+*Skills*: PyQt5, SQLite, ChromaDB, Power Automate, LangChain, LLMs  
+- Automated daily status emails and timesheet updates using Python and Power Automate.  
+- Integrated **ChromaDB** for storing contextual data and prepared for future AI/ML enhancements.  
+- Added **Minutes of Meeting (MoM)** automation for seamless documentation.  
+
+### [**Seat Arrangement Automation**](https://github.com/MrAk47Anand007/Seating-Arrangement-Automation)  
+*Skills*: Python, Google Sheets API, Power Automate  
+- Automated employee seating arrangements using Python and Google Sheets.  
+- Developed Power Automate workflows for sending updates via Microsoft Teams.  
+
+### [**Bot Logging Enhancer**](https://github.com/MrAk47Anand007/BotmAnipulatorK)  
+*Skills*: Automation Anywhere, REST APIs, Chrome APIs  
+- Created a **Chrome extension** to enhance bot logging for Automation Anywhere, improving team efficiency.  
+
+### [**Placify**](https://github.com/MrAk47Anand007/Placify)  
+*Skills*: React Native, Spring Boot, MySQL, ML  
+- Developed a **cross-platform training and placement app** with integrated ML features.  
+
+### [**EduMate**](https://github.com/MrAk47Anand007/College-App)  
+*Skills*: Android, Firebase, Google Cloud  
+- Built a mobile app to facilitate teacher-student communication during the pandemic.  
+
+
+## 📌 Interests  
+- AI/ML & Automation  
+- Cloud Computing  
+- Open-Source Development  
+- Problem-Solving Challenges (LeetCode, Hackathons)  
+
+---  
+
+Feel free to connect with me for collaboration, discussions, or ideas on software development and automation!  
+
 
 
 
