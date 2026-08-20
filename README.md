@@ -264,10 +264,6 @@ Mobile app for teacher-student communication during the pandemic, built with And
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAk47Anand007&theme=tokyonight" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAk47Anand007&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAk47Anand007&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </div>
