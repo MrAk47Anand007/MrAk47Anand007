@@ -123,8 +123,8 @@ Script managers, browser extensions, automation utilities, diagnostics, and inte
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="34" alt="SQLite" />
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+<img src="https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white" alt="CockroachDB" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 
 </div>
 
@@ -264,12 +264,16 @@ Mobile app for teacher-student communication during the pandemic, built with And
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrAk47Anand007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MrAk47Anand007&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAk47Anand007&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAk47Anand007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAk47Anand007&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrAk47Anand007&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAk47Anand007&theme=tokyonight" alt="Top languages" />
 </div>
 
 ---
