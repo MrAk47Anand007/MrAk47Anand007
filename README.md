@@ -28,20 +28,31 @@ I work where enterprise RPA meets modern AI engineering: UiPath, Automation Anyw
 | **Full-stack** | Spring Boot, FastAPI, React, React Native, Kafka, Docker, cloud-ready services |
 | **Developer tools** | Script managers, browser extensions, diagnostics, internal productivity platforms |
 
-**Currently:** building MCP tooling for RPA ecosystems, designing agentic automation with human-in-the-loop exception handling, and connecting LLMs to enterprise platforms through secure APIs.
+---
+
+## Now
+
+- Shipping **MCP tooling** for RPA platforms ([A360-MCP](https://github.com/anand-s-kale/A360-MCP), [UiPath Orchestrator MCP](https://github.com/anand-s-kale/uipath-orchestrator-mcp)).
+- Building **self-healing UI automation** that detects selector drift before a bot or test runs ([SelfHealerAutomation](https://github.com/anand-s-kale/SelfHealerAutomation)).
+- Exploring **agentic ops** with human-in-the-loop overrides ([devops-cli](https://github.com/anand-s-kale/devops-cli)).
+- Building **local-first apps**: [Restrowale](https://github.com/anand-s-kale/Restrowale) (Tauri + SQLite), [NearbyFS](https://github.com/anand-s-kale/NearbyFS) (Android to Windows), [MeetNote](https://github.com/anand-s-kale/MeetNote).
 
 ---
 
-## Featured projects
+## Projects
+
+Ordered by priority: the work closest to my day job and most actively maintained comes first.
+
+### Tier 1 · Flagship
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [A360-MCP](https://github.com/anand-s-kale/A360-MCP)
-Package-first MCP server for the Automation Anywhere A360 Control Room. Exposes auth, repository, deploy, activity, and bot-management tools to AI agents.
+Package-first MCP server for the Automation Anywhere A360 Control Room, built from exported swagger specs with CLI onboarding. Exposes auth, repository, deploy, and activity tools to AI agents.
 
-`MCP` `Python` `A360` `AI agents`
+`MCP` `TypeScript` `A360` `AI agents`
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +60,7 @@ Package-first MCP server for the Automation Anywhere A360 Control Room. Exposes 
 ### [UiPath Orchestrator MCP](https://github.com/anand-s-kale/uipath-orchestrator-mcp)
 Lets AI agents trigger jobs, manage queues, inspect assets, and monitor robots on UiPath Orchestrator through natural language.
 
-`MCP` `UiPath` `Orchestrator`
+`MCP` `TypeScript` `UiPath`
 
 </td>
 </tr>
@@ -57,15 +68,16 @@ Lets AI agents trigger jobs, manage queues, inspect assets, and monitor robots o
 <td width="50%" valign="top">
 
 ### [QuickComm](https://github.com/anand-s-kale/QuickComm---Hyperlocal-Quick-Commerce-Platform)
-Hyperlocal quick-commerce platform inspired by Zepto/Blinkit: microservices, 200+ REST endpoints, Kafka events, CockroachDB, React Native, Docker.
+Hyperlocal quick-commerce platform inspired by Zepto/Blinkit, with portals for users, delivery agents, admins, and agencies. Microservices, 200+ REST endpoints, Kafka events, CockroachDB, React Native, Docker.
 
-`Spring Boot` `Kafka` `React Native` `Docker`
+`Java` `Spring Boot` `Kafka` `React Native`
 
 </td>
 <td width="50%" valign="top">
 
-### [A360 BotKit](https://github.com/anand-s-kale/A360_BotKit)
-Published Chrome extension that streamlines A360 bot development, rated 5.0/5 on the Chrome Web Store.
+### A360 Chrome extensions
+[**A360 BotKit**](https://github.com/anand-s-kale/A360_BotKit) ([Chrome Web Store](https://chromewebstore.google.com/detail/ieolchhicpekhpfnkbmbhliblcildhfn)) keeps log-to-file line numbers in sync and copies bot actions between control rooms.<br>
+[**Bot Assistant**](https://github.com/anand-s-kale/Bot-Assistant) ([Chrome Web Store](https://chrome.google.com/webstore/detail/bdnogmeijaanbgpnmbhlhmkfcbaoejcp)) flags best-practice issues in real time, with bulk package updates and file copy. 500+ users.
 
 `Chrome extension` `A360` `Developer tools`
 
@@ -75,7 +87,7 @@ Published Chrome extension that streamlines A360 bot development, rated 5.0/5 on
 <td width="50%" valign="top">
 
 ### [ScriptManager](https://github.com/anand-s-kale/scriptmanager)
-Self-hosted script editor and scheduler with real-time execution, webhook triggers, plugin-style extensibility, and GitHub Gist sync.
+Self-hosted script editor and scheduler with real-time execution, webhook triggers, plugin-style extensibility, cloud storage, and GitHub Gist sync.
 
 `TypeScript` `Scheduler` `Webhooks`
 
@@ -91,7 +103,57 @@ Secure TOTP microservice that serves 2FA codes over HMAC-signed APIs, built for 
 </tr>
 </table>
 
-Earlier work: [Placify](https://github.com/anand-s-kale/Placify) (ML-driven student-recruiter matching, React Native + Spring Boot) and [EduMate](https://github.com/anand-s-kale/EduMate) (teacher-student mobile app, Android + Firebase). More on my [repositories page](https://github.com/anand-s-kale?tab=repositories).
+### Tier 2 · Active builds
+
+| Project | What it is | Stack |
+|---|---|---|
+| [SelfHealerAutomation](https://github.com/anand-s-kale/SelfHealerAutomation) | UIHeal: local-first preflight and self-healing toolkit that finds selector drift for A360, Playwright, Selenium, and Puppeteer | TypeScript |
+| [Restrowale](https://github.com/anand-s-kale/Restrowale) | Offline-first restaurant management desktop suite (POS billing, KOT, receipts) | Tauri, React, SQLite |
+| [NearbyFS](https://github.com/anand-s-kale/NearbyFS) | Secure Android-to-Windows bridge for files, media, and clipboard, with no cloud storage | Kotlin, C#, WinUI 3 |
+| [MeetNote](https://github.com/anand-s-kale/MeetNote) | Offline-first Android meeting notes with local capture and summarization | Kotlin |
+| [devops-cli](https://github.com/anand-s-kale/devops-cli) | SentinelOps: terminal deploy-judgment agent that chooses hold or rollback with confidence and escalates when unsure | TypeScript |
+| [ResumeAutomater](https://github.com/anand-s-kale/ResumeAutomater) | Local-first resume builder with LaTeX templates and PDF export | React |
+| [Unified-Server](https://github.com/anand-s-kale/Unified-Server) | Streamlit toolkit: GitHub repo extraction, grammar correction, sandboxed Python runner | Python |
+
+<details>
+<summary><b>Tier 3 · RPA and automation work</b></summary>
+<br>
+
+| Project | What it is |
+|---|---|
+| [Email_TimeSheet_Automation](https://github.com/anand-s-kale/Email_TimeSheet_Automation) / [EmailAndTimesheetAutomation](https://github.com/anand-s-kale/EmailAndTimesheetAutomation) | Email and timesheet automation (Python) |
+| [RPAMigration](https://github.com/anand-s-kale/RPAMigration) | RPA platform migration tooling (Python) |
+| [DocumentScriptExtraction](https://github.com/anand-s-kale/DocumentScriptExtraction) | Document script extraction (TypeScript) |
+| [Keka-Automation](https://github.com/anand-s-kale/Keka-Automation) | Keka HR workflow automation (Python) |
+| [AppiumAutomation](https://github.com/anand-s-kale/AppiumAutomation) | Mobile automation with Appium (Python) |
+| [Playwright_Headless_Automation](https://github.com/anand-s-kale/Playwright_Headless_Automation) | Java + Playwright web automation with PDF text extraction via Apache Tika |
+| [FlaUiAndPlaywright_Automation](https://github.com/anand-s-kale/FlaUiAndPlaywright_Automation) | Desktop (FlaUI) plus web (Playwright) automation in C# |
+| [Health_Check_Service_Script](https://github.com/anand-s-kale/Health_Check_Service_Script) | Sample health-check service (Python) |
+| [Seating-Arrangement-Automation](https://github.com/anand-s-kale/Seating-Arrangement-Automation) | Seating arrangement automation (Python) |
+| [GitRepoExtracter](https://github.com/anand-s-kale/GitRepoExtracter) | Repository ingestion suite for LLM-ready text, CLI and Streamlit (Python) |
+| [UiPath_Projects](https://github.com/anand-s-kale/UiPath_Projects) | UiPath project collection |
+
+</details>
+
+<details>
+<summary><b>Tier 4 · Earlier apps and learning</b></summary>
+<br>
+
+| Project | What it is |
+|---|---|
+| [Placify](https://github.com/anand-s-kale/Placify) | Cross-platform training and placement app with ML-driven student-recruiter matching (React Native, Spring Boot, MySQL) |
+| [EduMate](https://github.com/anand-s-kale/EduMate) | Teacher-student communication app built during the pandemic (Android, Firebase) |
+| [PdfEdtr](https://github.com/anand-s-kale/PdfEdtr) | Cross-platform PDF editor (Dart) |
+| [LinguaFix](https://github.com/anand-s-kale/LinguaFix) | Language correction app (Next.js) |
+| [Expenses-tracker-ByEmergent](https://github.com/anand-s-kale/Expenses-tracker-ByEmergent) | Expense tracker |
+| [Weather-App](https://github.com/anand-s-kale/Weather-App) | MERN-stack weather app |
+| [Rust-Exploration](https://github.com/anand-s-kale/Rust-Exploration) | Day-by-day Rust learning notes and exercises |
+| [Personal-Portfolio](https://github.com/anand-s-kale/Personal-Portfolio) / [anand-personal-portfolio](https://github.com/anand-s-kale/anand-personal-portfolio) | My portfolio site |
+| [LGMVIP--JAVA](https://github.com/anand-s-kale/LGMVIP--JAVA) / [TXON_Internship](https://github.com/anand-s-kale/TXON_Internship) | Internship task repositories |
+
+</details>
+
+Everything else is on my [repositories page](https://github.com/anand-s-kale?tab=repositories).
 
 ---
 
