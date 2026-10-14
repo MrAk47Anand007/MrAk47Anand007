@@ -7,7 +7,7 @@
 <p>
   <a href="https://anand-personal-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-View_Live-2CA5E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/akanandkale007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anandankalegak@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:anandkalegak@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 **Enterprise Automation Developer at Xalta Technologies** · Pune, India<br>
@@ -192,7 +192,7 @@ Earlier work: [Placify](https://github.com/anand-s-kale/Placify) (ML-driven stud
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akanandkale007/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>
-  <a href="mailto:anandankalegak@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="mailto:anandkalegak@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
   <a href="https://telegram.me/anandkale007"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="Telegram" /></a>
   <a href="https://www.youtube.com/channel/UCq6QHGGmkx2wbx7tkMMmsrw"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/19595194/akcoder"><img src="https://img.shields.io/static/v1?message=Stack_Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stack Overflow" /></a>
